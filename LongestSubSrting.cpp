@@ -1,3 +1,14 @@
+/*
+2018.12.27
+题目：至少有K个重复字符的最长子串
+解决思想：通过划分不断把原本的字符串变小
+统计原本字符串中每个字符出现的次数，把那些次数少于k的标记出来，简称d♂b
+假如原字符串是这样：aaabbbcdefcdefgggggggggggggggcde， 然后k是3
+在这里，f只出现了两次，就会被我们标记为db
+aaabbbcde*cde*gggggggggggggggcde
+然后递归地调用，每次对于一个新的字串继续查找db
+最后找到db间最长的字串即可
+*/
 #include <iostream>
 #include <cassert>
 using namespace std;
