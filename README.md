@@ -9,16 +9,8 @@
 - 50.[Pow(x,n)](Powx&n.cpp) <b>(80.78%)</b>
 - 138.[Copy List With Random Pointer](CopyListWithRandomPointer.cpp) <b>(99.1%)</b>
 - 208.[Implement Trie](ImplementTrie.cpp)
-<<<<<<< HEAD
 - 212.[Find Words II](FindWordsII.cpp) <b>(64.03%)</b>
 - 312.[Burst Balloons](BurstBolloons.cpp) <b>(90.12%)</b>
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
-- 395.[Longest Substring](LongestSubstring.cpp) <b>(74.17%)</b>
+- 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
-=======
-- 212.[Find Words II](FindWordsII.cpp)
-- 312.[Burst Balloons](BurstBolloons.cpp)
-- 395.[Longest Substring](LongestSubSrting.cpp)
-- 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp)
->>>>>>> 60febd5f5130a831eacdc3d9e9deb780ca8d7653
-
