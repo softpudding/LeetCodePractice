@@ -11,6 +11,6 @@
 - 208.[Implement Trie](ImplementTrie.cpp)
 - 212.[Find Words II](FindWordsII.cpp)
 - 312.[Burst Balloons](BurstBolloons.cpp)
-- 395.[Longest Substring](LongestSubString.cpp)
+- 395.[Longest Subsrting](LongestSubString.cpp)
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp)
 
