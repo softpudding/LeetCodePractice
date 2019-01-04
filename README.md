@@ -14,3 +14,4 @@
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
+- 768.[Max Chunks To Make Sorted II](MaxChunksToMakeSortedII.cpp) <b>(91.3%)</b>
