@@ -17,3 +17,4 @@
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
 - 768.[Max Chunks To Make Sorted II](MaxChunksToMakeSortedII.cpp) <b>(91.3%)</b>
+- 786.[Kth Smallest Prime Fraction](KthSmallestPrimeFraction.cpp) <b>(57.81%)</b>
