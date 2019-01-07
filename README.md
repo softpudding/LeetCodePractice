@@ -12,6 +12,7 @@
 - 212.[Find Words II](FindWordsII.cpp) <b>(64.03%)</b>
 - 312.[Burst Balloons](BurstBolloons.cpp) <b>(90.12%)</b>
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
+- 365.[Water and Jug Problem](WaterAndJugProblem.cpp) <b>(100%)</b>
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
