@@ -7,6 +7,7 @@
 - 31.[Next Permutation](nextPermutation.cpp) <b>(82.95%)</b>
 - 44.[Wildcard Matching](WildcardMatching.cpp) <b>(60%)</b>
 - 50.[Pow(x,n)](Powx&n.cpp) <b>(80.78%)</b>
+- 135.[Candy](candy.cpp) <b>(Extremely slow...)</b>
 - 138.[Copy List With Random Pointer](CopyListWithRandomPointer.cpp) <b>(99.1%)</b>
 - 208.[Implement Trie](ImplementTrie.cpp)
 - 212.[Find Words II](FindWordsII.cpp) <b>(64.03%)</b>
