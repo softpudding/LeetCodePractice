@@ -9,8 +9,10 @@
 - 50.[Pow(x,n)](Powx&n.cpp) <b>(80.78%)</b>
 - 135.[Candy](candy.cpp) <b>(Extremely slow...)</b>
 - 138.[Copy List With Random Pointer](CopyListWithRandomPointer.cpp) <b>(99.1%)</b>
+- 171.[Excel Sheet Column Number](ExcelSheetColumnNumber.cpp) <b>(100%)</b>
 - 208.[Implement Trie](ImplementTrie.cpp)
 - 212.[Find Words II](FindWordsII.cpp) <b>(64.03%)</b>
+- 295.[Find Median From Data Stream](FindMedianFromDaraStream.cpp) <b>(93.36%)</b>
 - 312.[Burst Balloons](BurstBolloons.cpp) <b>(90.12%)</b>
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
 - 365.[Water and Jug Problem](WaterAndJugProblem.cpp) <b>(100%)</b>
