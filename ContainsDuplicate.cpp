@@ -5,15 +5,14 @@
 理论上是线性时间，但我看评论里都说20ms以内是真大神。看来我果然还不是大神...
 要加油哦。
 */
-#include <iostream>
-void countingSort (unsigned int * ar,int n, int low, int high)
+void countingSort (vector<unsigned int> & ar,int n, int low, int high)
 {
-    //use 4 digits as a redix
+    //use 8 digits as a redix
     unsigned int new_ar[high-low+1];
     for(int i=0;i<=high;i++)
     {
-        new_ar[i]=(ar[i]<<(sizeof(unsigned int)-n*4))>>(sizeof(unsigned int)-4);
-        new_ar[i]=new_ar[i]&(0xF<<4*(n-1));
+        new_ar[i]=(ar[i]<<(sizeof(unsigned int)*8-n*8))>>(sizeof(unsigned int)*8-8);
+        new_ar[i]=new_ar[i]&(0xFF<<8*(n-1));
     }
     int c_size=0;
     for(int i=low;i<=high;i++)
@@ -37,16 +36,37 @@ void countingSort (unsigned int * ar,int n, int low, int high)
     for(int i=low;i<=high;i++)
         ar[i]=B[i];
 }
-void redixSort (unsigned int * ar, int low, int high)
+void redixSort (vector<unsigned int> & ar, int low, int high)
 {
-    for(int i=1;i<=sizeof(unsigned int)/4;i++)
+    if(high<=0)return;
+    for(int i=1;i<=sizeof(unsigned int);i++)
         countingSort(ar,i,low,high);
 }
-int main() {
-    unsigned int ar[10]={220,323,352,311,443,268,185,109,190,154};
-    redixSort(ar,0,9);
-    for(int i=0;i<10;i++)
-        std::cout<<ar[i]<<' ';
-    std::cout<<'\n';
-    return 0;
-}
+
+class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) {
+        if(nums.empty())return false;
+        vector<unsigned int> pos;
+        vector<unsigned int> neg;
+        int size=nums.size();
+        for(int i=0;i<size;i++){
+            if(nums[i]>=0)
+                pos.push_back(+nums[i]);
+            else
+                neg.push_back(-nums[i]);
+        }
+        redixSort(pos,0,pos.size()-1);
+        redixSort(neg,0,neg.size()-1);
+        for(int i=1;i<pos.size();i++){
+            if(pos[i]==pos[i-1])
+                return true;
+        }
+        for(int i=1;i<neg.size();i++){
+            if(neg[i]==neg[i-1])
+                return true;
+        }
+        return false;
+    }
+
+};
