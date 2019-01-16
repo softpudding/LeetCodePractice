@@ -12,6 +12,7 @@
 - 171.[Excel Sheet Column Number](ExcelSheetColumnNumber.cpp) <b>(100%)</b>
 - 208.[Implement Trie](ImplementTrie.cpp)
 - 212.[Find Words II](FindWordsII.cpp) <b>(64.03%)</b>
+- 217.[Contains Duplicate](ContainsDuplicate.cpp) <b>(94.86%)</b>
 - 295.[Find Median From Data Stream](FindMedianFromDaraStream.cpp) <b>(93.36%)</b>
 - 312.[Burst Balloons](BurstBolloons.cpp) <b>(90.12%)</b>
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
@@ -19,5 +20,6 @@
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
+- 662.[Maximum Width Of Binary Tree](MaximumWidthOfBinaryTree.cpp) <b>(100%)</b>
 - 768.[Max Chunks To Make Sorted II](MaxChunksToMakeSortedII.cpp) <b>(91.3%)</b>
 - 786.[Kth Smallest Prime Fraction](KthSmallestPrimeFraction.cpp) <b>(57.81%)</b>
