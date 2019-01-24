@@ -9,7 +9,7 @@ MAX{C[i..j]}=MAX{C[i..k]+C[k+1..j]+R}(i=<k<=j,R表示戳掉k带来的得分)
 #include <vector>
 using namespace std;
 
-//dynamic programming
+//dynamic programming   
 class Solution {
 public:
     int maxCoins(vector<int>& nums) {
