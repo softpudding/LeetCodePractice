@@ -21,9 +21,11 @@
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
 - 461.[Hamming Distance](HammingDistance.cpp) <b>(91.72%)</b>
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
+- 488.[Zuma Game](ZumaGame.cpp) <b>(11.11%)</b> So shame
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
 - 662.[Maximum Width Of Binary Tree](MaximumWidthOfBinaryTree.cpp) <b>(100%)</b>
 - 743.[Network Delay Time](NetworkDelayTime.cpp) <b>(Fxxking slow)</b>
 - 768.[Max Chunks To Make Sorted II](MaxChunksToMakeSortedII.cpp) <b>(91.3%)</b>
 - 786.[Kth Smallest Prime Fraction](KthSmallestPrimeFraction.cpp) <b>(57.81%)</b>
+- 914.[X of a Kind in a Deck of Cards](XofaKindinaDeckofCards.cpp) <b>(97.32%)</b>
 - 925.[Long Pressed Name](LongPressName.cpp) <b>(100%)</b>
