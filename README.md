@@ -27,5 +27,6 @@
 - 743.[Network Delay Time](NetworkDelayTime.cpp) <b>(Fxxking slow)</b>
 - 768.[Max Chunks To Make Sorted II](MaxChunksToMakeSortedII.cpp) <b>(91.3%)</b>
 - 786.[Kth Smallest Prime Fraction](KthSmallestPrimeFraction.cpp) <b>(57.81%)</b>
+- 910.[Smallest Range II](SmallestRangeII.cpp) <b>(96.55%)</b>
 - 914.[X of a Kind in a Deck of Cards](XofaKindinaDeckofCards.cpp) <b>(97.32%)</b>
 - 925.[Long Pressed Name](LongPressName.cpp) <b>(100%)</b>
