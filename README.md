@@ -3,6 +3,7 @@
 希望可以坚持。
 ## 目录
 - 4.[Medien of two sorted array](MedienOfTwoSortedArray.cpp) <b>(效率理论上理想，实际上不如随手写的O(M+N)代码)</b>
+- 16.[Three Sum Closest](ThreeSumClosest.cpp) <b>(%90.59 不过其实是看了别人的想法做的)</b>
 - 19.[Remove Nth Node From End Of List](RemoveNthNodeFromEndOfList.cpp) <b>(100%)</b>
 - 31.[Next Permutation](nextPermutation.cpp) <b>(82.95%)</b>
 - 44.[Wildcard Matching](WildcardMatching.cpp) <b>(60%)</b>
@@ -13,6 +14,8 @@
 - 208.[Implement Trie](ImplementTrie.cpp)
 - 212.[Find Words II](FindWordsII.cpp) <b>(64.03%)</b>
 - 217.[Contains Duplicate](ContainsDuplicate.cpp) <b>(94.86%)</b>
+- 219.[Contain Nearby Duplicates](ContainNearbyDuplicate.cpp) <b>(40%)</b>
+- 221.[Maximum Square](MaximumSquare.cpp) <b>(90%)</b>
 - 233.[Number Of Digit One](NumberOfDigitOne.cpp) <b>(100.00%)</b>
 - 295.[Find Median From Data Stream](FindMedianFromDaraStream.cpp) <b>(93.36%)</b>
 - 312.[Burst Balloons](BurstBolloons.cpp) <b>(90.12%)</b>
