@@ -33,3 +33,4 @@
 - 910.[Smallest Range II](SmallestRangeII.cpp) <b>(96.55%)</b>
 - 914.[X of a Kind in a Deck of Cards](XofaKindinaDeckofCards.cpp) <b>(97.32%)</b>
 - 925.[Long Pressed Name](LongPressName.cpp) <b>(100%)</b>
+- 1044.[Longest Duplicate Substring](LongestDubSubstring.cpp) <b>(时间24.28%,空间89.09%)</b>
