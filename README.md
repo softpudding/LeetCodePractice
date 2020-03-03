@@ -2,6 +2,8 @@
 这是一个记录我做过的LeetCode习题的repo，用来日后的复习。
 希望可以坚持。
 ## 目录
+- 面试题08.05.[Recursive Multiply](RecursiveMultiply.cpp) <b>(时间64.47%，空间100%)</b>
+- LCP 5.[Coin Bonus](CoinBonus.cpp) <b>(时间100%，第一次学到线段树，题解同时需要用到dfs和线段树，非常有收获)</b>
 - 4.[Medien of two sorted array](MedienOfTwoSortedArray.cpp) <b>(效率理论上理想，实际上不如随手写的O(M+N)代码)</b>
 - 16.[Three Sum Closest](ThreeSumClosest.cpp) <b>(%90.59 不过其实是看了别人的想法做的)</b>
 - 19.[Remove Nth Node From End Of List](RemoveNthNodeFromEndOfList.cpp) <b>(100%)</b>
