@@ -41,3 +41,4 @@
 - 1044.[Longest Duplicate Substring](LongestDubSubstring.cpp) <b>(时间24.28%,空间89.09%)</b>
 - 1124.[Longest Well-Performing Interval](longestWPI.cpp) <b>(时间51.3%,空间8.08%)</b>
 - 1339.[Maximum Product of Splitted Binary Tree](MaxProduct.cpp) <b>(时间99.04%,内存100%)</b>
+- 1370.[Increasing Decreasing String](SortString.cpp) <b>(时间91.01%,空间90.04%)</b>
