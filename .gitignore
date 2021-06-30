@@ -1,0 +1,4 @@
+#executable files
+*.exe
+#vscode setting
+.vscode
