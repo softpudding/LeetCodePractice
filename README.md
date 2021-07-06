@@ -21,6 +21,7 @@
 - 219.[Contain Nearby Duplicates](ContainNearbyDuplicate.cpp) <b>(40%)</b>
 - 221.[Maximum Square](MaximumSquare.cpp) <b>(90%)</b>
 - 233.[Number Of Digit One](NumberOfDigitOne.cpp) <b>(100.00%)</b>
+- 258.[Add Digits](AddDigits.cpp) <b>(100.0%)</b>
 - 295.[Find Median From Data Stream](FindMedianFromDaraStream.cpp) <b>(93.36%)</b>
 - 312.[Burst Balloons](BurstBolloons.cpp) <b>(90.12%)</b>
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
