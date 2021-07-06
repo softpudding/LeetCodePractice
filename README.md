@@ -26,6 +26,7 @@
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
 - 365.[Water and Jug Problem](WaterAndJugProblem.cpp) <b>(100%)</b>
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
+- 435.[Non-overlapping Intervals](EraseOverlapIntervals.cpp) <b>(22%)</b>
 - 461.[Hamming Distance](HammingDistance.cpp) <b>(91.72%)</b>
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
 - 488.[Zuma Game](ZumaGame.cpp) <b>(11.11%)</b> So shame
@@ -40,6 +41,8 @@
 - 925.[Long Pressed Name](LongPressName.cpp) <b>(100%)</b>
 - 1044.[Longest Duplicate Substring](LongestDubSubstring.cpp) <b>(时间24.28%,空间89.09%)</b>
 - 1124.[Longest Well-Performing Interval](longestWPI.cpp) <b>(时间51.3%,空间8.08%)</b>
+- 1131.[Maximum of Absolute Value Expression](MaxAbsValExpr.cpp) <b>(89.74%)</b>
+- 1253.[Reconstruct a 2-Row Binary Matrix](reconstructMatrix.cpp) <b>(时间93.46%,空间69.16%)</b>
 - 1315.[Sum of Nodes with Even-Valued Grandparent](SumEvenGrandparent.cpp) <b>(没做优化表现不佳)</b>
 - 1339.[Maximum Product of Splitted Binary Tree](MaxProduct.cpp) <b>(时间99.04%,内存100%)</b>
 - 1370.[Increasing Decreasing String](SortString.cpp) <b>(时间91.01%,空间90.04%)</b>
