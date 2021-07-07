@@ -2,6 +2,7 @@
 这是一个记录我做过的LeetCode习题的repo，用来日后的复习。
 希望可以坚持。
 ## 目录
+- 面试题 04.05.[Legal Binary Search Tree LCCI](IsValidSubBST.cpp) <b>84.82%</b>
 - 面试题08.05.[Recursive Multiply](RecursiveMultiply.cpp) <b>(时间64.47%，空间100%)</b>
 - 面试题10.03.[Search Rotate Array](SearchRotateArray.cpp) <b>(95%)</b>
 - LCP 5.[Coin Bonus](CoinBonus.cpp) <b>(时间100%，第一次学到线段树，题解同时需要用到dfs和线段树，非常有收获)</b>
@@ -37,6 +38,7 @@
 - 743.[Network Delay Time](NetworkDelayTime.cpp) <b>(Fxxking slow)</b>
 - 768.[Max Chunks To Make Sorted II](MaxChunksToMakeSortedII.cpp) <b>(91.3%)</b>
 - 786.[Kth Smallest Prime Fraction](KthSmallestPrimeFraction.cpp) <b>(57.81%)</b>
+- 866.[Prime Palindrome](PrimePalindrome.cpp) <b>(92.00%)</b>
 - 910.[Smallest Range II](SmallestRangeII.cpp) <b>(96.55%)</b>
 - 914.[X of a Kind in a Deck of Cards](XofaKindinaDeckofCards.cpp) <b>(97.32%)</b>
 - 925.[Long Pressed Name](LongPressName.cpp) <b>(100%)</b>
@@ -47,3 +49,4 @@
 - 1315.[Sum of Nodes with Even-Valued Grandparent](SumEvenGrandparent.cpp) <b>(没做优化表现不佳)</b>
 - 1339.[Maximum Product of Splitted Binary Tree](MaxProduct.cpp) <b>(时间99.04%,内存100%)</b>
 - 1370.[Increasing Decreasing String](SortString.cpp) <b>(时间91.01%,空间90.04%)</b>
+- 1377.[Frog Position After T Seconds](FrogPosition.cpp) <b>(16.31%)</b>
