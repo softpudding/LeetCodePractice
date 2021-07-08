@@ -2,6 +2,7 @@
 这是一个记录我做过的LeetCode习题的repo，用来日后的复习。
 希望可以坚持。
 ## 目录
+- 面试题 01.02.[Check Permutation LCCI](CheckPermutation.cpp) <b>(100%)</b>
 - 面试题 04.05.[Legal Binary Search Tree LCCI](IsValidSubBST.cpp) <b>84.82%</b>
 - 面试题08.05.[Recursive Multiply](RecursiveMultiply.cpp) <b>(时间64.47%，空间100%)</b>
 - 面试题10.03.[Search Rotate Array](SearchRotateArray.cpp) <b>(95%)</b>
@@ -32,6 +33,7 @@
 - 461.[Hamming Distance](HammingDistance.cpp) <b>(91.72%)</b>
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
 - 488.[Zuma Game](ZumaGame.cpp) <b>(11.11%)</b> So shame
+- 514.[Freedom Trail](FindRotateSteps.cpp) <b>(75%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
 - 662.[Maximum Width Of Binary Tree](MaximumWidthOfBinaryTree.cpp) <b>(100%)</b>
 - 728.[Daily Temperture](DailyTemperature.cpp) <b>(89.40%)</b>
@@ -50,3 +52,5 @@
 - 1339.[Maximum Product of Splitted Binary Tree](MaxProduct.cpp) <b>(时间99.04%,内存100%)</b>
 - 1370.[Increasing Decreasing String](SortString.cpp) <b>(时间91.01%,空间90.04%)</b>
 - 1377.[Frog Position After T Seconds](FrogPosition.cpp) <b>(16.31%)</b>
+- 1680.[Concatenation of Consecutive Binary Numbers](ConcatenatedBinary.cpp) <b>(67%)</b>
+- 1790.[Check if One String Swap Can Make Strings Equal](AreAlmostEqual.cpp) <b>(100%)</b>
