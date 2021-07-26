@@ -13,6 +13,7 @@
 - 31.[Next Permutation](nextPermutation.cpp) <b>(82.95%)</b>
 - 44.[Wildcard Matching](WildcardMatching.cpp) <b>(60%)</b>
 - 50.[Pow(x,n)](Powx&n.cpp) <b>(80.78%)</b>
+- 56.[Merge Intervals](merge.cpp) <b>(94.86%)</b>
 - 135.[Candy](candy.cpp) <b>(Extremely slow...)</b>
 - 138.[Copy List With Random Pointer](CopyListWithRandomPointer.cpp) <b>(99.1%)</b>
 - 171.[Excel Sheet Column Number](ExcelSheetColumnNumber.cpp) <b>(100%)</b>
@@ -22,10 +23,13 @@
 - 217.[Contains Duplicate](ContainsDuplicate.cpp) <b>(94.86%)</b>
 - 219.[Contain Nearby Duplicates](ContainNearbyDuplicate.cpp) <b>(40%)</b>
 - 221.[Maximum Square](MaximumSquare.cpp) <b>(90%)</b>
+- 226.[Invert Binary Tree](InvertTree.cpp) <b>(54%)</b>
 - 233.[Number Of Digit One](NumberOfDigitOne.cpp) <b>(100.00%)</b>
 - 258.[Add Digits](AddDigits.cpp) <b>(100.0%)</b>
 - 295.[Find Median From Data Stream](FindMedianFromDaraStream.cpp) <b>(93.36%)</b>
 - 312.[Burst Balloons](BurstBolloons.cpp) <b>(90.12%)</b>
+- 322.[Coin Change](CoinChange.cpp) <b>(85%)</b>
+- 328.[Odd Even Linked List](OddEvenList.cpp) <b>(88%)</b>
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
 - 365.[Water and Jug Problem](WaterAndJugProblem.cpp) <b>(100%)</b>
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
@@ -44,6 +48,7 @@
 - 910.[Smallest Range II](SmallestRangeII.cpp) <b>(96.55%)</b>
 - 914.[X of a Kind in a Deck of Cards](XofaKindinaDeckofCards.cpp) <b>(97.32%)</b>
 - 925.[Long Pressed Name](LongPressName.cpp) <b>(100%)</b>
+- 977.[Squares of a Sorted Array](SortedSquare.cpp) <b>(30%)
 - 1044.[Longest Duplicate Substring](LongestDubSubstring.cpp) <b>(时间24.28%,空间89.09%)</b>
 - 1124.[Longest Well-Performing Interval](longestWPI.cpp) <b>(时间51.3%,空间8.08%)</b>
 - 1131.[Maximum of Absolute Value Expression](MaxAbsValExpr.cpp) <b>(89.74%)</b>
