@@ -11,12 +11,16 @@
 - 16.[Three Sum Closest](ThreeSumClosest.cpp) <b>(%90.59 不过其实是看了别人的想法做的)</b>
 - 19.[Remove Nth Node From End Of List](RemoveNthNodeFromEndOfList.cpp) <b>(100%)</b>
 - 31.[Next Permutation](nextPermutation.cpp) <b>(82.95%)</b>
+- 42.[Trapping Rain Water](Trap.cpp) <b>(42%)</b>
 - 44.[Wildcard Matching](WildcardMatching.cpp) <b>(60%)</b>
 - 50.[Pow(x,n)](Powx&n.cpp) <b>(80.78%)</b>
 - 56.[Merge Intervals](merge.cpp) <b>(94.86%)</b>
+- 75.[Sort Colors](SortColor.cpp) <b>(30%)</b>
 - 135.[Candy](candy.cpp) <b>(Extremely slow...)</b>
 - 138.[Copy List With Random Pointer](CopyListWithRandomPointer.cpp) <b>(99.1%)</b>
+- 140.[Word Break II](WordBreak.cpp) <b>(39%)</b>
 - 171.[Excel Sheet Column Number](ExcelSheetColumnNumber.cpp) <b>(100%)</b>
+- 179.[Largest Number](LargestNumber.cpp) <b>(40%)</b>
 - 206.[Reverse List](ReverseList.cpp) <b>(97.04%)</b>
 - 208.[Implement Trie](ImplementTrie.cpp)
 - 212.[Find Words II](FindWordsII.cpp) <b>(64.03%)</b>
@@ -25,25 +29,31 @@
 - 221.[Maximum Square](MaximumSquare.cpp) <b>(90%)</b>
 - 226.[Invert Binary Tree](InvertTree.cpp) <b>(54%)</b>
 - 233.[Number Of Digit One](NumberOfDigitOne.cpp) <b>(100.00%)</b>
+- 234.[Palindrome Linked List](IsPalindrome.cpp) <b>(90%)</b>
 - 258.[Add Digits](AddDigits.cpp) <b>(100.0%)</b>
 - 295.[Find Median From Data Stream](FindMedianFromDaraStream.cpp) <b>(93.36%)</b>
+- 300.[Longest Increasing Subsequence](LengthOfLIS) <b>(60%)</b>
 - 312.[Burst Balloons](BurstBolloons.cpp) <b>(90.12%)</b>
 - 322.[Coin Change](CoinChange.cpp) <b>(85%)</b>
 - 328.[Odd Even Linked List](OddEvenList.cpp) <b>(88%)</b>
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
 - 365.[Water and Jug Problem](WaterAndJugProblem.cpp) <b>(100%)</b>
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
+- 407.[Trapping Rain Water II](TrapRainWater.cpp) <b>(80%)</b>
 - 435.[Non-overlapping Intervals](EraseOverlapIntervals.cpp) <b>(22%)</b>
+- 450.[Delete Node in a BST](DeleteNode.cpp) <b>(97%)</b>
 - 461.[Hamming Distance](HammingDistance.cpp) <b>(91.72%)</b>
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
 - 488.[Zuma Game](ZumaGame.cpp) <b>(11.11%)</b> So shame
 - 514.[Freedom Trail](FindRotateSteps.cpp) <b>(75%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
 - 662.[Maximum Width Of Binary Tree](MaximumWidthOfBinaryTree.cpp) <b>(100%)</b>
+- 703.[Kth Largest Element in a Stream](KthLargest.cpp) <b>(81%)</b>
 - 728.[Daily Temperture](DailyTemperature.cpp) <b>(89.40%)</b>
 - 743.[Network Delay Time](NetworkDelayTime.cpp) <b>(Fxxking slow)</b>
 - 768.[Max Chunks To Make Sorted II](MaxChunksToMakeSortedII.cpp) <b>(91.3%)</b>
 - 786.[Kth Smallest Prime Fraction](KthSmallestPrimeFraction.cpp) <b>(57.81%)</b>
+- 863.[All Nodes Distance K in Binary Tree](DistanceK.cpp) <b>(90%)</b>
 - 866.[Prime Palindrome](PrimePalindrome.cpp) <b>(92.00%)</b>
 - 910.[Smallest Range II](SmallestRangeII.cpp) <b>(96.55%)</b>
 - 914.[X of a Kind in a Deck of Cards](XofaKindinaDeckofCards.cpp) <b>(97.32%)</b>
