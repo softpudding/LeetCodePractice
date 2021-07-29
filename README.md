@@ -60,6 +60,7 @@
 - 925.[Long Pressed Name](LongPressName.cpp) <b>(100%)</b>
 - 977.[Squares of a Sorted Array](SortedSquare.cpp) <b>(30%)
 - 1044.[Longest Duplicate Substring](LongestDubSubstring.cpp) <b>(时间24.28%,空间89.09%)</b>
+- 1104.[Path In Zigzag Labelled Binary Tree](PathInZigZagTree.cpp) <b>(时间100%空间90%)</b>
 - 1124.[Longest Well-Performing Interval](longestWPI.cpp) <b>(时间51.3%,空间8.08%)</b>
 - 1131.[Maximum of Absolute Value Expression](MaxAbsValExpr.cpp) <b>(89.74%)</b>
 - 1253.[Reconstruct a 2-Row Binary Matrix](reconstructMatrix.cpp) <b>(时间93.46%,空间69.16%)</b>
