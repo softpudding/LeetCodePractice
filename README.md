@@ -40,6 +40,7 @@
 - 365.[Water and Jug Problem](WaterAndJugProblem.cpp) <b>(100%)</b>
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
 - 407.[Trapping Rain Water II](TrapRainWater.cpp) <b>(80%)</b>
+- 413.[Arithmetic Slices](NumberOfArithmeticSlices.cpp) <b>(bad performance)</b>
 - 435.[Non-overlapping Intervals](EraseOverlapIntervals.cpp) <b>(22%)</b>
 - 450.[Delete Node in a BST](DeleteNode.cpp) <b>(97%)</b>
 - 461.[Hamming Distance](HammingDistance.cpp) <b>(91.72%)</b>
