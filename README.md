@@ -3,6 +3,7 @@
 希望可以坚持。
 ## 目录
 - 面试题 01.02.[Check Permutation LCCI](CheckPermutation.cpp) <b>(100%)</b>
+- 面试题 03.03.[Stack of Plates LCCI](StackOfPlates.cpp) <b>(50%)</b>
 - 面试题 04.05.[Legal Binary Search Tree LCCI](IsValidSubBST.cpp) <b>84.82%</b>
 - 面试题08.05.[Recursive Multiply](RecursiveMultiply.cpp) <b>(时间64.47%，空间100%)</b>
 - 面试题10.03.[Search Rotate Array](SearchRotateArray.cpp) <b>(95%)</b>
