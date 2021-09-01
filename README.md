@@ -19,6 +19,7 @@
 - 135.[Candy](candy.cpp) <b>(Extremely slow...)</b>
 - 138.[Copy List With Random Pointer](CopyListWithRandomPointer.cpp) <b>(99.1%)</b>
 - 140.[Word Break II](WordBreak.cpp) <b>(39%)</b>
+- 165.[Compare Version Numbers](CompareVersion.cpp) <b>(100%)</b>
 - 171.[Excel Sheet Column Number](ExcelSheetColumnNumber.cpp) <b>(100%)</b>
 - 179.[Largest Number](LargestNumber.cpp) <b>(40%)</b>
 - 206.[Reverse List](ReverseList.cpp) <b>(97.04%)</b>
@@ -47,6 +48,7 @@
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
 - 488.[Zuma Game](ZumaGame.cpp) <b>(11.11%)</b> So shame
 - 514.[Freedom Trail](FindRotateSteps.cpp) <b>(75%)</b>
+- 516.[Longest Palindromic Subsequence](LongestPalindromeSbseq.cpp) <b>(80%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
 - 662.[Maximum Width Of Binary Tree](MaximumWidthOfBinaryTree.cpp) <b>(100%)</b>
 - 703.[Kth Largest Element in a Stream](KthLargest.cpp) <b>(81%)</b>
