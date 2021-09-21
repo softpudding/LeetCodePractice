@@ -4,6 +4,11 @@
 #include<string>
 #include<algorithm>
 using namespace std;
+void swap(vector<int> & arr, int i, int j){
+    int temp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = temp;
+}
 // lastV是上一次用来完成对数组的分割操作的数字的最新下标
 // 在现在的input数组中：input[0] ~ input[lastV-1] 小于input[lastV]
 // input[lastV+1] ~ input[input.size()-1] 大于input[lastV]
@@ -11,29 +16,19 @@ int doPart(vector<int> & input, int low, int high){
     if(low == high){
         return low;
     }
-    int lastVPos = low;
-    vector<int> smaller,bigger;
+    int l = low, r = high;
     int val = input[low];
-    int valPos = low;
-    for(int i = low; i < high; i++){
-        if(input[i] <= val){
-            valPos++;
-            smaller.push_back(input[i]);
+    while(l<r){
+        while(l < r && input[r] >= val){
+            r--;
         }
-        else{
-            bigger.push_back(input[i]);
+        swap(input,l,r);
+        while(l < r && input[l] <= val){
+            l++;
         }
+        swap(input,l,r);
     }
-    input[valPos] = val;
-    for(int i = low; i < valPos; i++){
-        input[i] = smaller.back();
-        smaller.pop_back();
-    }
-    for(int i = valPos+1; i <= high; i++){
-        input[i] = bigger.back();
-        bigger.pop_back();
-    }
-    return valPos;
+    return l;
 }
 
 vector<int> KLargestNumbers(vector<int> & input, int k){

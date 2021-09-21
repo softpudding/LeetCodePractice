@@ -19,13 +19,15 @@ public:
         }
         for(int i = 0; i < size; i++){
             for(int j = i+2; j < size; j++){
-                if(dp[i][j-1] - dp[i][j-2] == dp[i][j] - dp[i][j-1]){
+                if(nums[j-1] - nums[j-2] == nums[j] - nums[j-1]){
                     dp[i][j] = dp[i][j-1]+1;
+                    //cout<<i<<"|"<<j<<":"<<dp[i][j]<<endl;
                     if(dp[i][j]>=3){
                         res++;
                     }
                 }
                 else{
+                    cout<<i<<"|"<<j<<":"<<dp[i][j]<<endl;
                     break;
                 }
             }

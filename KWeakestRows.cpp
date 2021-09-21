@@ -14,7 +14,7 @@ struct solPosNIndex{
 };
 bool operator<(solPosNIndex s1, solPosNIndex s2){
     return s1.pos < s2.pos || (s1.pos == s2.pos && s1.index < s2.index);
-}
+}   
 
 class Solution {
 private:
@@ -58,5 +58,6 @@ public:
             res.push_back(pq.top().index);
             pq.pop();
         }
+        return res; 
     }
 };

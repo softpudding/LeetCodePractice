@@ -16,6 +16,8 @@
 - 44.[Wildcard Matching](WildcardMatching.cpp) <b>(60%)</b>
 - 50.[Pow(x,n)](Powx&n.cpp) <b>(80.78%)</b>
 - 56.[Merge Intervals](merge.cpp) <b>(94.86%)</b>
+- 58.[Length of Last Word](lengthOfLastWord.cpp) <b>(100%)</b>
+- 68.[Text Justification](FullJusitify.cpp) <b>(100%)</b>
 - 75.[Sort Colors](SortColor.cpp) <b>(30%)</b>
 - 135.[Candy](candy.cpp) <b>(Extremely slow...)</b>
 - 138.[Copy List With Random Pointer](CopyListWithRandomPointer.cpp) <b>(99.1%)</b>
