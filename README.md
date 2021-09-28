@@ -46,6 +46,7 @@
 - 407.[Trapping Rain Water II](TrapRainWater.cpp) <b>(80%)</b>
 - 413.[Arithmetic Slices](NumberOfArithmeticSlices.cpp) <b>(bad performance)</b>
 - 435.[Non-overlapping Intervals](EraseOverlapIntervals.cpp) <b>(22%)</b>
+- 438.[Path Sum III](PathSumIII.cpp) <b>(15%)</b>
 - 450.[Delete Node in a BST](DeleteNode.cpp) <b>(97%)</b>
 - 461.[Hamming Distance](HammingDistance.cpp) <b>(91.72%)</b>
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
@@ -53,6 +54,7 @@
 - 514.[Freedom Trail](FindRotateSteps.cpp) <b>(75%)</b>
 - 516.[Longest Palindromic Subsequence](LongestPalindromeSbseq.cpp) <b>(80%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
+- 639.[Decode Ways II](NumDecodingsII.cpp) <b>(20%)</b>
 - 662.[Maximum Width Of Binary Tree](MaximumWidthOfBinaryTree.cpp) <b>(100%)</b>
 - 703.[Kth Largest Element in a Stream](KthLargest.cpp) <b>(81%)</b>
 - 728.[Daily Temperture](DailyTemperature.cpp) <b>(89.40%)</b>
