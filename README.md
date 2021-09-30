@@ -31,6 +31,8 @@
 - 217.[Contains Duplicate](ContainsDuplicate.cpp) <b>(94.86%)</b>
 - 219.[Contain Nearby Duplicates](ContainNearbyDuplicate.cpp) <b>(40%)</b>
 - 221.[Maximum Square](MaximumSquare.cpp) <b>(90%)</b>
+- 223.[Rectangle Area](ComputeArea.cpp) <b>(90%)</b>
+- 224.[Basic Calculator](BasicCalculator.cpp) <b>(50%)</b>
 - 226.[Invert Binary Tree](InvertTree.cpp) <b>(54%)</b>
 - 233.[Number Of Digit One](NumberOfDigitOne.cpp) <b>(100.00%)</b>
 - 234.[Palindrome Linked List](IsPalindrome.cpp) <b>(90%)</b>
@@ -53,6 +55,7 @@
 - 488.[Zuma Game](ZumaGame.cpp) <b>(11.11%)</b> So shame
 - 514.[Freedom Trail](FindRotateSteps.cpp) <b>(75%)</b>
 - 516.[Longest Palindromic Subsequence](LongestPalindromeSbseq.cpp) <b>(80%)</b>
+- 517.[Super Washing Machines](FindMinMoves.cpp) <b>(94%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
 - 639.[Decode Ways II](NumDecodingsII.cpp) <b>(20%)</b>
 - 662.[Maximum Width Of Binary Tree](MaximumWidthOfBinaryTree.cpp) <b>(100%)</b>
@@ -80,3 +83,4 @@
 - 1377.[Frog Position After T Seconds](FrogPosition.cpp) <b>(16.31%)</b>
 - 1680.[Concatenation of Consecutive Binary Numbers](ConcatenatedBinary.cpp) <b>(67%)</b>
 - 1790.[Check if One String Swap Can Make Strings Equal](AreAlmostEqual.cpp) <b>(100%)</b>
+- 1896.[Minimum Cost to Change the Final Value of Expression](MinOperationsToFlip.cpp) <b>(25%)</b> 感觉跟又做了一遍compiler的lab一样。。
