@@ -7,6 +7,8 @@
 - 面试题 04.05.[Legal Binary Search Tree LCCI](IsValidSubBST.cpp) <b>84.82%</b>
 - 面试题08.05.[Recursive Multiply](RecursiveMultiply.cpp) <b>(时间64.47%，空间100%)</b>
 - 面试题10.03.[Search Rotate Array](SearchRotateArray.cpp) <b>(95%)</b>
+- 剑指 Offer II 078.[合并排序链表] (MergeKLists.cpp) <b>(96%)</b>
+- 剑指 Offer 59 - II. [队列的最大值] (MaxQueue.cpp) <b>(50%)</b>
 - LCP 5.[Coin Bonus](CoinBonus.cpp) <b>(时间100%，第一次学到线段树，题解同时需要用到dfs和线段树，非常有收获)</b>
 - 4.[Medien of two sorted array](MedienOfTwoSortedArray.cpp) <b>(效率理论上理想，实际上不如随手写的O(M+N)代码)</b>
 - 16.[Three Sum Closest](ThreeSumClosest.cpp) <b>(%90.59 不过其实是看了别人的想法做的)</b>
@@ -17,6 +19,7 @@
 - 50.[Pow(x,n)](Powx&n.cpp) <b>(80.78%)</b>
 - 56.[Merge Intervals](merge.cpp) <b>(94.86%)</b>
 - 58.[Length of Last Word](lengthOfLastWord.cpp) <b>(100%)</b>
+- 66.[Plus One](PlusOne.cpp) <b>(100%)</b>
 - 68.[Text Justification](FullJusitify.cpp) <b>(100%)</b>
 - 75.[Sort Colors](SortColor.cpp) <b>(30%)</b>
 - 135.[Candy](candy.cpp) <b>(Extremely slow...)</b>
@@ -46,10 +49,13 @@
 - 365.[Water and Jug Problem](WaterAndJugProblem.cpp) <b>(100%)</b>
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
 - 407.[Trapping Rain Water II](TrapRainWater.cpp) <b>(80%)</b>
+- 412.[Fizz Buzz](FizzBuzz.cpp) <b>(84%)</b>
 - 413.[Arithmetic Slices](NumberOfArithmeticSlices.cpp) <b>(bad performance)</b>
 - 435.[Non-overlapping Intervals](EraseOverlapIntervals.cpp) <b>(22%)</b>
 - 438.[Path Sum III](PathSumIII.cpp) <b>(15%)</b>
 - 450.[Delete Node in a BST](DeleteNode.cpp) <b>(97%)</b>
+- 453.[Minimum Moves to Equal Array Elements](MinMoves.cpp) <b>(80%)</b>
+- 458.[Poor Pigs](PoorPigs.cpp) <b>(100%)</b>
 - 461.[Hamming Distance](HammingDistance.cpp) <b>(91.72%)</b>
 - 470.[Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7().cpp) <b>(99.08%)</b>
 - 488.[Zuma Game](ZumaGame.cpp) <b>(11.11%)</b> So shame
