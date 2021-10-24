@@ -47,12 +47,14 @@
 - 328.[Odd Even Linked List](OddEvenList.cpp) <b>(88%)</b>
 - 335.[Self Crossing](SelfCrossing.cpp)  <b>(100%)</b>
 - 365.[Water and Jug Problem](WaterAndJugProblem.cpp) <b>(100%)</b>
+- 378.[Kth Smallest Element in a Sorted Matrix](KthSmallestInSortedMatrix.cpp) <b>(55%)</b                                                                  >
 - 395.[Longest Substring](LongestSubsrting.cpp) <b>(74.17%)</b>
 - 407.[Trapping Rain Water II](TrapRainWater.cpp) <b>(80%)</b>
 - 412.[Fizz Buzz](FizzBuzz.cpp) <b>(84%)</b>
 - 413.[Arithmetic Slices](NumberOfArithmeticSlices.cpp) <b>(bad performance)</b>
 - 435.[Non-overlapping Intervals](EraseOverlapIntervals.cpp) <b>(22%)</b>
 - 438.[Path Sum III](PathSumIII.cpp) <b>(15%)</b>
+- 492.[Construct Rectangle](ConstructRectangle.cpp) <b>(100%)</b>
 - 450.[Delete Node in a BST](DeleteNode.cpp) <b>(97%)</b>
 - 453.[Minimum Moves to Equal Array Elements](MinMoves.cpp) <b>(80%)</b>
 - 458.[Poor Pigs](PoorPigs.cpp) <b>(100%)</b>
@@ -63,6 +65,7 @@
 - 516.[Longest Palindromic Subsequence](LongestPalindromeSbseq.cpp) <b>(80%)</b>
 - 517.[Super Washing Machines](FindMinMoves.cpp) <b>(94%)</b>
 - 552.[Student Attendance RecordII](StudentAttendanceRecordII.cpp) <b>(78.95%)</b>
+- 638.[Shopping Offers](ShoppingOffers.cpp) <b>(14%，记忆化搜索)</b>
 - 639.[Decode Ways II](NumDecodingsII.cpp) <b>(20%)</b>
 - 662.[Maximum Width Of Binary Tree](MaximumWidthOfBinaryTree.cpp) <b>(100%)</b>
 - 703.[Kth Largest Element in a Stream](KthLargest.cpp) <b>(81%)</b>
@@ -87,6 +90,7 @@
 - 1339.[Maximum Product of Splitted Binary Tree](MaxProduct.cpp) <b>(时间99.04%,内存100%)</b>
 - 1370.[Increasing Decreasing String](SortString.cpp) <b>(时间91.01%,空间90.04%)</b>
 - 1377.[Frog Position After T Seconds](FrogPosition.cpp) <b>(16.31%)</b>
+- 1388.[Pizza With 3n Slices](MaxSizeSlices.cpp) <b>很差</b>
 - 1680.[Concatenation of Consecutive Binary Numbers](ConcatenatedBinary.cpp) <b>(67%)</b>
 - 1790.[Check if One String Swap Can Make Strings Equal](AreAlmostEqual.cpp) <b>(100%)</b>
 - 1896.[Minimum Cost to Change the Final Value of Expression](MinOperationsToFlip.cpp) <b>(25%)</b> 感觉跟又做了一遍compiler的lab一样。。
